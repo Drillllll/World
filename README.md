@@ -9,19 +9,19 @@ Organisms have different strengths, initiatives, and abilities. Here are some ex
 
 Animals
 
-    Human: After pressing the space bar, the human (player) becomes immortal for 5 turns.
-    Antelope: Has a 50% chance of escaping from a fight.
-    Fox: Will not move to a field occupied by a stronger organism.
-    Sheep: None.
-    Turtle: Defends against animal attacks.
-    Wolf: None.
-    Cyber Sheep: Tries to move to the closest Sosnowsky's Hogweed plant and eat it.
+Human: After pressing the space bar, the human (player) becomes immortal for 5 turns.
+Antelope: Has a 50% chance of escaping from a fight.
+Fox: Will not move to a field occupied by a stronger organism.
+Sheep: None.
+Turtle: Defends against animal attacks.
+Wolf: None.
+Cyber Sheep: Tries to move to the closest Sosnowsky's Hogweed plant and eat it.
 
 Plants
 
-    Grass: None.
-    Belladonna: Toxic plant that kills an animal that eats it.
-    Guarna: If an animal eats this plant, its strength increases.
-    Sonchus: Spreads more quickly.
-    Sosnowsky's Hogweed: Kills every animal in the vicinity (except Cyber Sheep).
+Grass: None.
+Belladonna: Toxic plant that kills an animal that eats it.
+Guarna: If an animal eats this plant, its strength increases.
+Sonchus: Spreads more quickly.
+Sosnowsky's Hogweed: Kills every animal in the vicinity (except Cyber Sheep).
 
