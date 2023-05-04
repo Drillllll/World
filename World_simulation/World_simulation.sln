@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "World_simulation", "World_simulation\World_simulation.pyproj", "{88170762-980C-4D3E-BB73-E7BA280F1095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88170762-980C-4D3E-BB73-E7BA280F1095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88170762-980C-4D3E-BB73-E7BA280F1095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5147803D-C398-4DB0-8530-6E85C79F629A}
+	EndGlobalSection
+EndGlobal
